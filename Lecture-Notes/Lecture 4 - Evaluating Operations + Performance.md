@@ -1,0 +1,36 @@
+- Common cash flow issues (all are accounting problems with binary decisions and making the wrong decision)
+	- All are liabilities
+	- Caused by no financial goals
+	- Biggest problem is cash running out
+		- Bookkeeping
+		- Overspending
+		- No financial goals
+		- Too much equity
+		- Immediate Results
+		- High Overhead Costs
+		- Payroll
+		- Flexibility
+- Out of operating, investing, and financing, most startups only do one
+	- 95% higher for cash flow on operating costs
+- 1/5 Rule of cash flow (operating) - focus on payments received as goal, so you have runway
+- Direct cash flow is standard accounting measures
+- Indirect cash flow is net income figure from income statement
+	- A lot of startups rely on this for runway
+	- Indicator of if you have customers paying for products or services
+- LTM is a strong metric for startups, especially B2C (business to consumer) and SaaS (software as a service)
+	- In terms of last 12 months
+	- For SaaS, should go up if charging same price over the last 12 months and cash coming in
+	- SaaS platforms rely on this
+	- LTM revenue = Most recent quarter figures + Most recent annual figures - Figures in the corresponding quarter 12 months before the most recent quarter
+	- Higher LTM is better for startups
+- Return on equity is what investors want. For startups, it shows you are worth investing in.
+- P/L Metrics
+	- Runway - how much money you have before you run out
+		- Startup runway (in cash) = current cash balance + burn rate
+		- Startup runway (in months) = (current cash balance)/(burn rate)
+		- Some equations use starting cash balance and some equations use ending cash balance, so be clear to investors which one you are using in calculating runway
+	- Burn rate - how much money are you burning every month
+		- Net burn rate is a much better indicator than gross burn rate
+		- Net burn rate = (starting cash balance - ending cash balance)/(number of months)
+			- 3/6 months is a good indicator as it aligns with quarters
+			- Use 6 months as a baseline indicator

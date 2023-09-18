@@ -1,0 +1,28 @@
+- For SaaS, Customer Acquisition Cost (CAC) and Customer Lifetime Value (CLV) are most important
+- Customer Acquisition Cost decreases the older the SaaS is because other people recommend the product, so lower advertising cost due to network effect
+- Churn is the number or percentage of people you lose
+- 3:1 ratio, where you get the three times the value of acquisition from each new customer is good
+- >10% churn is a problem
+- SaaS Cash Flow LTV Equations
+	- Predictive
+		- Put through predictive from month over month
+		-  Cash flow is a good metric to create predictive ML models from
+			- Algorithms are stronger with dimensionality reduction
+		- Predictive LTV = (T x AOV x AGM x ACL)/C
+			- T: number of transactions
+			- AOV: average order value
+			- AGM: average gross margin
+			- ACL: average customer lifetime
+			- C: number of customers
+	- Flexible
+		- Flexible LTV = GML x (R/(1 + D - R))
+			- GML: gross margin per customer lifetime
+			- R: retention rate
+			- D: discount rate
+			- R: retention rate
+		- Based on retention and discount rates
+	- Freemium are not customers. They are users.
+	- Investors want employees to have reserved stock options (they're more focused on company success 
+	- An investor may ask you to do a post-money option pool. This is bad as it dilutes stockholders. WALK AWAY.
+	- Protecting yourself as an employee, selling a company before Series B is bad because all un-issued and un-vested options will be cancelled
+	- Use a hiring plan to size the option pool

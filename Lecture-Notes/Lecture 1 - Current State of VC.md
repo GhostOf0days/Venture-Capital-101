@@ -1,0 +1,8 @@
+- VC - invest
+- PE - arrange board (can replace CEOs by investors), reconfigures to get most out of money
+- CVC - companies investing in startups, oversee development, has net (so looks at you as R&D as well)
+- Only 1 in 10 companies VCs invest in come to fruition.
+- Funds raised back to split across regions in the world from mostly investing in U.S. before.
+- Grant funding is not investment.
+- If you want to create a VC algorithm, algorithms perform better on dimensionality reduction.
+- VCs really invest in 10-12 a year with 1 or 2 VC firms investing in a lot more.

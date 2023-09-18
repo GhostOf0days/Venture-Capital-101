@@ -1,0 +1,213 @@
+Metric,Weight
+Betas by Sector_Number of firms,0.1
+Betas by Sector_Beta,0.105
+Betas by Sector_D/E Ratio,0.11
+Betas by Sector_Effective Tax rate,0.115
+Betas by Sector_Unlevered beta,0.12
+Betas by Sector_Cash/Firm value,0.125
+Betas by Sector_Unlevered beta corrected for cash,0.13
+Betas by Sector_HiLo Risk,0.135
+Betas by Sector_Standard deviation of equity,0.14
+Betas by Sector_Standard deviation in operating income (last 10 years),0.145
+Betas by Sector_2019.0,0.15
+Betas by Sector_2020.0,0.155
+Betas by Sector_2021.0,0.16
+Betas by Sector_2022.0,0.165
+Betas by Sector_Average (2019-23),0.17
+Total Betas by Sector_Number of firms,0.175
+Total Betas by Sector_Average Unlevered Beta,0.18
+Total Betas by Sector_Average Levered Beta,0.185
+Total Betas by Sector_Average correlation with the market,0.19
+Total Betas by Sector_Total Unlevered Beta,0.195
+Total Betas by Sector_Total Levered Beta,0.2
+Insider and Institutional Holdi_Number of Firms,0.205
+Insider and Institutional Holdi_CEO Holding,0.21
+Insider and Institutional Holdi_Corporate Holdings,0.215
+Insider and Institutional Holdi_Institutional Holdings,0.22
+Insider and Institutional Holdi_Insider Holdings,0.225
+Cost of Equity and Capital by S_Number of Firms,0.23
+Cost of Equity and Capital by S_Beta,0.235
+Cost of Equity and Capital by S_Cost of Equity,0.24
+Cost of Equity and Capital by S_E/(D+E),0.245
+Cost of Equity and Capital by S_Std Dev in Stock,0.25
+Cost of Equity and Capital by S_Cost of Debt,0.255
+Cost of Equity and Capital by S_Tax Rate,0.26
+Cost of Equity and Capital by S_After-tax Cost of Debt,0.265
+Cost of Equity and Capital by S_D/(D+E),0.27
+Cost of Equity and Capital by S_Cost of Capital,0.275
+Aggregate Values in USD (Millio_Number of firms,0.28
+Aggregate Values in USD (Millio_Average Company Age (years),0.285
+Aggregate Values in USD (Millio_Market Cap ($ millions),0.29
+Aggregate Values in USD (Millio_Book Equity ($ millions),0.295
+Aggregate Values in USD (Millio_Enteprise Value ($ millions),0.3
+Aggregate Values in USD (Millio_Invested Capital ($ millions),0.305
+Aggregate Values in USD (Millio_Total Debt (including leases) ($ millions),0.31
+Aggregate Values in USD (Millio_Revenues ($ millions),0.315
+Aggregate Values in USD (Millio_Gross Profit ($ millions),0.32
+Aggregate Values in USD (Millio_EBITDA ($ millions),0.325
+Aggregate Values in USD (Millio_EBIT (Operating Income) ($ millions),0.33
+Aggregate Values in USD (Millio_Net Income ( $ millions),0.335
+Economic Value Added by Sector_Number of Firms,0.34
+Economic Value Added by Sector_Beta,0.345
+Economic Value Added by Sector_ROE,0.35
+Economic Value Added by Sector_Cost of Equity,0.355
+Economic Value Added by Sector_(ROE - COE),0.36
+Economic Value Added by Sector_BV of Equity,0.365
+Economic Value Added by Sector_Equity EVA (US $ millions),0.37
+Economic Value Added by Sector_ROC,0.375
+Economic Value Added by Sector_Cost of Capital,0.38
+Economic Value Added by Sector_(ROC - WACC),0.385
+Economic Value Added by Sector_BV of Capital,0.39
+Economic Value Added by Sector_EVA (US $ millions),0.395
+Economic Value Added by Sector_E/(D+E),0.4
+Economic Value Added by Sector_Std Dev in Stock,0.405
+Economic Value Added by Sector_Cost of Debt,0.41
+Economic Value Added by Sector_Tax Rate,0.415
+Economic Value Added by Sector_After-tax Cost of Debt,0.42
+Economic Value Added by Sector_D/(D+E),0.425
+Debt Details by Sector_Number of firms,0.43
+Debt Details by Sector_Book Debt to Capital,0.435
+Debt Details by Sector_Market Debt to Capital (Unadjusted),0.44
+Debt Details by Sector_Market D/E (unadjusted),0.445
+Debt Details by Sector_Market Debt to Capital (adjusted for leases),0.45
+Debt Details by Sector_Market D/E (adjusted for leases),0.455
+Debt Details by Sector_Effective tax rate,0.46
+Debt Details by Sector_Institutional Holdings,0.465
+Debt Details by Sector_Std dev in Stock Prices,0.47
+Debt Details by Sector_EBITDA/EV,0.475
+Debt Details by Sector_Net PP&E/Total Assets,0.48
+Debt Details by Sector_Capital Spending/Total Assets,0.485
+Debt Fundamentals by Sector_Number of firms,0.49
+Debt Fundamentals by Sector_Book Debt to Capital,0.495
+Debt Fundamentals by Sector_Market Debt to Capital (Unadjusted),0.5
+Debt Fundamentals by Sector_Market D/E (unadjusted),0.505
+Debt Fundamentals by Sector_Market Debt to Capital (adjusted for leases),0.51
+Debt Fundamentals by Sector_Market D/E (adjusted for leases),0.515
+Debt Fundamentals by Sector_Effective tax rate,0.52
+Debt Fundamentals by Sector_Institutional Holdings,0.525
+Debt Fundamentals by Sector_Std dev in Stock Prices,0.53
+Debt Fundamentals by Sector_EBITDA/EV,0.535
+Debt Fundamentals by Sector_Net PP&E/Total Assets,0.54
+Debt Fundamentals by Sector_Capital Spending/Total Assets,0.545
+Lease Effect on Debt and Profit_Number of firms,0.55
+Lease Effect on Debt and Profit_Lease Expense/ Sales,0.555
+Lease Effect on Debt and Profit_Total Debt without leases,0.56
+Lease Effect on Debt and Profit_Total Debt with Leases,0.565
+Lease Effect on Debt and Profit_Lease Debt as % of Total Debt,0.57
+Lease Effect on Debt and Profit_Market Debt to Capital without leases,0.575
+Lease Effect on Debt and Profit_Market Debt to Capital with leases,0.58
+Lease Effect on Debt and Profit_Book Debt to Capital without leases,0.585
+Lease Effect on Debt and Profit_Book Debt to Capital with leases,0.59
+Lease Effect on Debt and Profit_Operating income (before lease adj),0.595
+Lease Effect on Debt and Profit_Operating income (after lease adj),0.6
+Lease Effect on Debt and Profit_ROIC (without leases),0.605
+Lease Effect on Debt and Profit_ROIC (with leases),0.61
+Lease Effect on Debt and Profit_Pre-tax Operating Margin (before lease adj),0.615
+Lease Effect on Debt and Profit_Pre-tax Operating Margin (after lease adj),0.62
+Lease Effect on Debt and Profit_Lease Debt (My Estimate),0.625
+Lease Effect on Debt and Profit_Lease Debt (Accounting),0.63
+Dividends and FCFE by Sector_Number of firms,0.635
+Dividends and FCFE by Sector_Dividends,0.64
+Dividends and FCFE by Sector_Net Income,0.645
+Dividends and FCFE by Sector_Payout,0.65
+Dividends and FCFE by Sector_Dividends + Buybacks,0.655
+Dividends and FCFE by Sector_Cash Return as % of Net Income,0.66
+Dividends and FCFE by Sector_Dividends + Buybacks - Stock Issuances,0.665
+Dividends and FCFE by Sector_FCFE (before debt cash flows),0.67
+Dividends and FCFE by Sector_FCFE (after debt cash flows),0.675
+Dividends and FCFE by Sector_Net Cash Returned/FCFE (pre-debt),0.68
+Dividends and FCFE by Sector_Net Cash Returned/FCFE (post-debt),0.685
+Dividends and FCFE by Sector_Net Cash Returned/ Net Income,0.69
+Dividends and FCFE by Sector_Cash/ Firm Value,0.695
+Dividend Fundamentals by Sector_Number of firms,0.7
+Dividend Fundamentals by Sector_Total Dividends (US $ millions),0.705
+Dividend Fundamentals by Sector_Special Dividends as % of Total Dividends,0.71
+Dividend Fundamentals by Sector_Dividend Payout,0.715
+Dividend Fundamentals by Sector_Dividend Yield,0.72
+Dividend Fundamentals by Sector_Market Cap (US $ millions),0.725
+Dividend Fundamentals by Sector_ROE,0.73
+Dividend Fundamentals by Sector_Institutional Holdings,0.735
+Dividend Fundamentals by Sector_Std Dev in Stock Prices,0.74
+R&D Expenditures by Sector_Number of firms,0.745
+R&D Expenditures by Sector_R&D Capitalized (my estimate in $ millions),0.75
+R&D Expenditures by Sector_Capitalized R&D as % of Invested Capital,0.755
+R&D Expenditures by Sector_R&D - LTM (in $ millions),0.76
+R&D Expenditures by Sector_Current R&D as % of Revenue,0.765
+R&D Expenditures by Sector_R&D - 1 year ago (in $ millions),0.77
+R&D Expenditures by Sector_R&D - 2 years ago  (in $ millions),0.775
+R&D Expenditures by Sector_R&D - 3 years ago  (in $ millions),0.78
+R&D Expenditures by Sector_R&D - 4 years ago,0.785
+R&D Expenditures by Sector_R&D - 5 years ago  (in $ millions),0.79
+R&D Expenditures by Sector_CAGR in R&D - Last 5 years,0.795
+Goodwill by Sector_Number of Firms,0.8
+Goodwill by Sector_Goodwill (in $ millions),0.805
+Goodwill by Sector_Change in Goodwill in last year,0.81
+Goodwill by Sector_Goodwill as % of Total Assets,0.815
+Goodwill by Sector_Impairment of Goodwill in LTM in $ millioins,0.82
+Goodwill by Sector_Impairment as % of Goodwill,0.825
+Margins by Sector_Number of firms,0.83
+Margins by Sector_Gross Margin,0.835
+Margins by Sector_Net Margin,0.84
+"Margins by Sector_Pre-tax, Pre-stock compensation Operating Margin",0.845
+Margins by Sector_Pre-tax Unadjusted Operating Margin,0.85
+Margins by Sector_After-tax Unadjusted Operating Margin,0.855
+Margins by Sector_Pre-tax Lease adjusted Margin,0.86
+Margins by Sector_After-tax Lease Adjusted Margin,0.865
+Margins by Sector_Pre-tax Lease & R&D adj Margin,0.87
+Margins by Sector_After-tax Lease & R&D adj Margin,0.875
+Margins by Sector_EBITDA/Sales,0.88
+Margins by Sector_EBITDASG&A/Sales,0.885
+Margins by Sector_EBITDAR&D/Sales,0.89
+Margins by Sector_COGS/Sales,0.895
+Margins by Sector_R&D/Sales,0.9
+Margins by Sector_SG&A/ Sales,0.905
+Margins by Sector_Stock-Based Compensation/Sales,0.91
+Margins by Sector_Lease Expense/Sales,0.915
+Financing Flows by Sector_Number of Firms,0.92
+Financing Flows by Sector_Dividends in $ millions,0.925
+Financing Flows by Sector_Buybacks in $ millions,0.93
+Financing Flows by Sector_Equity Issuance in $ millions,0.935
+Financing Flows by Sector_Net Equity Change  in $ millions,0.94
+Financing Flows by Sector_Net Equity Change as % of Book Equity,0.945
+Financing Flows by Sector_Debt Repaid  in $ millions,0.95
+Financing Flows by Sector_Debt Raised in $ millions,0.955
+Financing Flows by Sector_Net Debt Change in $ millions,0.96
+Financing Flows by Sector_Net Change in Debt as % of Total Debt,0.965
+Financing Flows by Sector_Change in Lease Debt  in $ millions,0.97
+Working Capital Requirements by_Number of firms,0.975
+Working Capital Requirements by_Acc Rec/ Sales,0.98
+Working Capital Requirements by_Inventory/Sales,0.985
+Working Capital Requirements by_Acc Pay/ Sales,0.99
+Working Capital Requirements by_Non-cash WC/ Sales,0.995
+Fundamental Growth in EPS by Se_Number of Firms,1.0
+Fundamental Growth in EPS by Se_ROE,1.005
+Fundamental Growth in EPS by Se_Retention Ratio,1.01
+Fundamental Growth in EPS by Se_Fundamental Growth,1.015
+Historical (Compounded Annual) _Number of Firms,1.02
+Historical (Compounded Annual) _CAGR in Net Income- Last 5 years,1.025
+Historical (Compounded Annual) _CAGR in Revenues- Last 5 years,1.03
+Historical (Compounded Annual) _Expected Growth in Revenues - Next 2 years,1.035
+Historical (Compounded Annual) _Expected Growth in EPS - Next 5 years,1.04
+Fundamental Growth in EBIT by S_Number of Firms,1.045
+Fundamental Growth in EBIT by S_ROC,1.05
+Fundamental Growth in EBIT by S_Reinvestment Rate,1.055
+Fundamental Growth in EBIT by S_Expected Growth in EBIT,1.06
+PE Ratio by Sector_Number of firms,1.065
+PE Ratio by Sector_% of Money Losing firms (Trailing),1.07
+PE Ratio by Sector_Current PE,1.075
+PE Ratio by Sector_Trailing PE,1.08
+PE Ratio by Sector_Forward PE,1.085
+PE Ratio by Sector_Aggregate Mkt Cap/ Net Income (all firms),1.09
+PE Ratio by Sector_Aggregate Mkt Cap/ Trailing Net Income (only money making firms),1.095
+PE Ratio by Sector_Expected growth - next 5 years,1.1
+PE Ratio by Sector_PEG Ratio,1.105
+Price and Value to Book Ratio b_Number of firms,1.11
+Price and Value to Book Ratio b_PBV,1.115
+Price and Value to Book Ratio b_ROE,1.12
+Price and Value to Book Ratio b_EV/ Invested Capital,1.125
+Price and Value to Book Ratio b_ROIC,1.13
+Revenue Multiples by Sector_Number of firms,1.135
+Revenue Multiples by Sector_Price/Sales,1.14
+Revenue Multiples by Sector_Net Margin,1.145
+Revenue Multiples by Sector_EV/Sales,1.15
+Revenue Multiples by Sector_Pre-tax Operating Margin,1.155

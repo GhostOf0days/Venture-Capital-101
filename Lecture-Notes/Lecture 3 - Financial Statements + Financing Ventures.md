@@ -1,0 +1,24 @@
+- Cash Flow + P&L = future
+- Balance sheets - own vs. owe
+- Patents are considered assets, but they do depreciate over time
+- On a balance sheet, assets are on the lefthand side and liabilities are on the righthand side
+- People are viewed as assets (human capital) even if salaries are liabilities
+- Assets = Liabilities + Equity
+- Current assets are liquid in less than a year
+	- This is important as investors may say you have less than a year to make the actual product work
+- Patents are considered intangibles (less depreciation)
+- Current liabilities are payable in less than a year
+- Balance sheets for startups are used to calculate debt-to-equity ratio
+- Debt-to-equity ratio
+	- Equity is inclusive of any equity contributed by the owners
+		- Can give it back to employees or keep it
+			- Save it, so you can attract new investors/raise the cost of shares
+			- Retained earnings appears on right side
+		- Getting payed in cash comes off the balance sheet
+	- Leverage translation 
+		- Less than 1 -> Fully equity financed. Not in a good position as a founder Investors can dilute shares because don't have sales, etc. Investors can own you.
+		- Above 1 -> Good position. Founder can say I don't need your money.
+- COGS (cost of goods sold) should appear on income statement not balance sheet
+- If you take retained earnings out of calculating assets, will hurt you in assets equation. Must have it in equation.
+- In most states, an LLC can have 100 managers in your LLC, so you got money to play with if each puts in money
+- Subsidies are most likely non-dilutive
