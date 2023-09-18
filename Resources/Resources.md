@@ -17,8 +17,11 @@ Similar to other professional endavors, you need to always be a student of an in
 [Found](https://pod.link/found?utm_medium=TCnewsletter&tpcc=TCreviewnewsletter)
 [Founder Foward](https://www.nea.com/founder-forward?=test&utm_source=google&utm_medium=paid&utm_campaign=test&gclid=Cj0KCQjwuZGnBhD1ARIsACxbAVjxMTlPBRxKkV_FPFCPMZ2mPJnCm7JH9N6i5cgC1DShb20fvLEwQc0aAhLTEALw_wcB)
 
+## Articles
+[Hidden Clauses in the Term Sheet](https://theventurecrew.substack.com/p/hidden-clauses-in-the-term-sheet)
+
 ## Investment Terms Glossary
 [CB Insights VC Glossary](https://www.cbinsights.com/research-vc-glossary-index)
 
-# Spreadsheets for Startup Valuations
+## Spreadsheets for Startup Valuations
 [VC Method](https://vcmethod.com/)
