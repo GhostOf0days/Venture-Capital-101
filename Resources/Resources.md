@@ -39,3 +39,6 @@ Entrepreneur's Handbook by Harvard Business Review
 Leader's Handbook by Harvard Business Review
 Disclipined Entrepreneurship by Bill Aulet
 Venture Deals: Be Smarter Than Your Lawyer and Venture Capitalist Hardcover by Brad Field & Jason Mendelson
+
+## Other
+[Concept Ventures Resources](https://www.conceptventures.vc/news-categories/resources)
