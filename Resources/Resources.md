@@ -25,6 +25,17 @@ Similar to other professional endavors, you need to always be a student of an in
 [Broad-Based Weighted Average](https://www.investopedia.com/terms/b/broadbasedweightedaverage.asp)
 [Narrow-Based Weighted Average](https://www.investopedia.com/terms/n/narrowbasedweightedaverage.asp)
 [Full Ratchet](https://www.investopedia.com/terms/b/broadbasedweightedaverage.asp)
+[Preferred Stock](https://www.investopedia.com/terms/p/preferredstock.asp#:~:text=A%20preferred%20stock%20is%20a,in%20the%20event%20of%20liquidation.)
+[Convertoble Preferred Stock](https://www.investopedia.com/terms/c/convertiblepreferredstock.asp)
 
 ## Spreadsheets for Startup Valuations
 [VC Method](https://vcmethod.com/)
+
+## Books
+The Lean Startup by Eric Ries
+Ideaflow by Jeremy Utley and Perry Klebahn
+The Cold Start Problem by Andrew Chen
+Entrepreneur's Handbook by Harvard Business Review
+Leader's Handbook by Harvard Business Review
+Disclipined Entrepreneurship by Bill Aulet
+Venture Deals: Be Smarter Than Your Lawyer and Venture Capitalist Hardcover by Brad Field & Jason Mendelson
