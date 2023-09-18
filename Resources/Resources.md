@@ -20,8 +20,11 @@ Similar to other professional endavors, you need to always be a student of an in
 ## Articles
 [Hidden Clauses in the Term Sheet](https://theventurecrew.substack.com/p/hidden-clauses-in-the-term-sheet)
 
-## Investment Terms Glossary
+## VC Terms
 [CB Insights VC Glossary](https://www.cbinsights.com/research-vc-glossary-index)
+[Broad-Based Weighted Average](https://www.investopedia.com/terms/b/broadbasedweightedaverage.asp)
+[Narrow-Based Weighted Average](https://www.investopedia.com/terms/n/narrowbasedweightedaverage.asp)
+[Full Ratchet](https://www.investopedia.com/terms/b/broadbasedweightedaverage.asp)
 
 ## Spreadsheets for Startup Valuations
 [VC Method](https://vcmethod.com/)
