@@ -3,7 +3,6 @@
 ## The attached document will take you to a burn and churn exercise as you're the founder of a new SaaS company that created a micro-mobility solution to find transportation options for people living with disabilities.
 
 ## You are tasked with finding the following:
-
 - What's your burn rate? In this example, it's the salary of three junior developers.
 - What's the total revenue you need to earn to pay your three junior developers with an annual salary of $85,000?
 - What's the total number of customers you need to earn to pay your three junior developers with an annual salary of $85,000?

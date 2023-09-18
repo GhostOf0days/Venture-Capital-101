@@ -7,7 +7,6 @@
 - New indicators such as runway and burn rate
 
 ## You are tasked with finding:
-
 - What's your investment offer?
 - For how many shares, operating under the assumption that employees will get 5 percent in each scenario?
 - What's the VC realized?
