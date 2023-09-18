@@ -4,6 +4,13 @@
 - Series B and Series C can be seen as bad (NOT 100% SURE)
 - Some startups take multiple Series A and skip Series B and Series C to go to Series D
 - M&A -> Still operate business, lose some stuff, is good
+- Market Valuation​ (SEED or SERIES A)
+- Discounted Cash Flow (DCF) Analysis​ (SERIES B or C)
+	- Pre-requisite to understand: https://www.investopedia.com/terms/w/wacc.asp -> https://www.investopedia.com/terms/d/dcf.asp
+- Multiples Method​ (SERIES D or MATURE)
+	- https://www.investopedia.com/terms/m/multiplesapproach.asp
+- Comparable Transactions Method​ (M + A)
+	- Pre-requisite to understand: https://www.investopedia.com/terms/e/ev-ebitda.asp -> https://www.investopedia.com/terms/c/comparable-transaction.asp#:~:text=Key%20Takeaways,based%20on%20its%20recent%20earnings.
 - Required IRR, Investment, and Term favorable to investors. This is how investors value startups.
 - Year 5 Net Income, Year 5 PER favorable to founders. This is what founders value themselves as.
 - Investment = How much investors invest
@@ -26,7 +33,7 @@
 - Typical companies have 5 years
 - To make it easier on a company, investors give them more time (higher term) or lower the required IRR.
 - The average lifespan of an investment is 10 years.
-- PER is always negotiated. If investors ask for money and you benchmark a decent amount like 12, investor is just not great to work with.
+- PER is always negotiated. If investors ask for money and you benchmark a decent amount like 12, investor is just not great to work with. (??? FIX THIS)
 - More regulation = higher term.
 - Total terminal value = PER (PER in the last year of the term) x terminal net income (net income of the last year of the term)
 - VC Realized Investment = Future Value (Realized)
@@ -47,7 +54,7 @@
 - % of holding has to add up to 100%
 - Founders at start have shares that don't change. Have to make sure shares are non-dilutive.
 	- Post-money valuation: Shares stay the same. % of company holding drops.
-- As investment stages increase, founder stake increases, founder's stake decreases, and % allocated to employees decrease (later employees have less equity)
+- As investment stages increase, investor stake increases, founder's stake decreases, and % allocated to employees decrease (later employees have less equity)
 - Investors want you to give equity to employees because then they know there's a financial stake in the company's success and are more committed
 - Max % allocated to investors at a round -> keep max  given in round at 15%
 - Pre-money valuation vs. post-money valuation
@@ -71,7 +78,7 @@
 - Employee Stock Ownership Plan (ESOP)
 	- If you're hiring 50 people, don't give equity stake. If 6-10 people, give equity stake (early founders or executives).
 	- VC firms look for 10-20%. Investors/pre-seed will look for 5-10%.
-	- Aim for dilution (15-20% per round)
+	- Only let VCs get 15-20% per round (usually around 15%) -> Dilution of 15-20% per round
 	- Look at contractual clause for cash compensation where low salary ($30K or so) until hit revenue target of $1M (at which point employee cash salary increases, say $175K)
 	- Use sliding scale (high salary, low equity. low salary, high equity, etc. Choose how to split between two.)
 		- Higher equity gives up more stake, but makes employees work harder in the long run to get more money
