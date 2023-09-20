@@ -64,5 +64,13 @@ for metric in scaled_df.columns:
 # Sort the sectors based on the composite score
 sorted_sectors = composite_score_updated.sort_values(ascending=False)
 
-print("Top 10 Sectors for VC Investments based on Composite Score:")
-print(sorted_sectors.head(10))
+# Open a file in write mode
+with open("top_sectors.txt", "w") as file:
+    # Write the header to the file
+    file.write("Top Sectors for VC Investments based on Composite Score:\n")
+    
+    # Write all sectors to the file
+    file.write(sorted_sectors.to_string())
+
+print("All sectors have been written to 'top_sectors.txt'")
+
